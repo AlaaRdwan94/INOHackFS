@@ -1,0 +1,4 @@
+DDD : https://airbrake.io/blog/software-design/domain-driven-design
+DDD more explanation : https://medium.com/learnfazz/domain-driven-design-in-go-253155543bb1
+hexagonal : https://www.youtube.com/watch?v=oL6JBUk6tj0&t=1498s
+hexagonal example : https://github.com/Holmes89/hex-example
